@@ -15,11 +15,11 @@ To install Flask Login Application, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/flask-login-app.git
+    git clone https://github.com/iamshanevictor/LoginForm.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd flask-login-app
+    cd LoginForm
     ```
 3. Install the required packages:
     ```bash
