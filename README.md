@@ -34,12 +34,10 @@ To use Flask Login Application, follow these steps:
     ```bash
     python app.py
     ```
-2. Open your web browser and navigate to `http://127.0.0.1:5000/`.
+2. Open your web browser and navigate to `localhost:5000`.
 
 ## Contact
 
-If you want to contact me, you can reach me at `your@contact.info`.
+If you want to contact me, you can reach me at `sbato-on_210000000@uic.edu.ph`.
 
-## License
-
-This project uses the following license: license.
+## NoLicense
